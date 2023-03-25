@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 - ![image](https://user-images.githubusercontent.com/104473291/227710643-a2f05087-c2c9-400a-8a80-5eb646fd5294.png)
 - 👯 I’m looking a job about web programing
   ## My skills:
-     ####⚡ReactJS, TailwindCss, Typescript(Beginning level)
-     ####⚡HTML, CSS, JS
-     ####⚡NodeJS, ExpressJS
-     ####⚡Java, OOP
-     ####⚡SQL, No-SQL(specified MongoDB) 
-     ####⚡Github
--
-<img src="https://github-readme-stats.vercel.app/api?username=khanhduy74105&show_icons=true&theme=ADD_THEME_HERE" width="400">
+     -⚡ReactJS, TailwindCss, Typescript(Beginning level)
+     -⚡NodeJS, ExpressJS
+     -⚡Java, OOP
+     -⚡SQL, No-SQL(specified MongoDB) 
+     -⚡Github
+<img src="https://github-readme-stats.vercel.app/api?username=khanhduy74105&show_icons=true&theme=ADD_THEME_HERE" width="100%">
 - 📫 How to reach me:
-  ####✨ Email: duyntk74105@gmail.com
-  ####✨ Linkedin: https://www.linkedin.com/in/duy-nguy%E1%BB%85n-th%C3%A1i-kh%C3%A1nh-837b0725b/
+  -✨ Email: duyntk74105@gmail.com
+  -✨ Linkedin: https://www.linkedin.com/in/duy-nguy%E1%BB%85n-th%C3%A1i-kh%C3%A1nh-837b0725b/
