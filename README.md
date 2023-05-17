@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
   # Hi there, I'm Duy 👋
 - 🌱 I’m currently learning at Vietnam - Korea University of Information and Communication Technology
-- ## Learning process
-- ![image](https://user-images.githubusercontent.com/104473291/227710643-a2f05087-c2c9-400a-8a80-5eb646fd5294.png)
-- 👯 I’m looking a job about web programing
+- 👯 I’m looking a job about web programing, front-end or back-end or both
   ## My skills:
      -⚡ReactJS, TailwindCss, Typescript(Beginning level)
      -⚡NodeJS, ExpressJS
