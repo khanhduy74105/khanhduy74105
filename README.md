@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=khanhduy74105&show_icons=true&theme=ADD_THEME_HERE" width="500px">
 </div>
 - 📫 How to reach me:
--✨ Email: duyntk74105@gmail.com
--✨ Linkedin: www.linkedin.com/in/khanhduy74105
+
+- ✨ Email: duyntk74105@gmail.com
+
+- ✨ Linkedin: www.linkedin.com/in/khanhduy74105
